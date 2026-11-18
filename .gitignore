@@ -1,0 +1,5 @@
+dist/
+launcher/payload.zip
+launcher/app.ico
+launcher/*.syso
+*.exe
